@@ -1,0 +1,31 @@
+form:before {
+	content: '';
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.3);
+	z-index: -1;
+	border-radius: 10px;
+}
+
+/* a.btn {
+	border-radius: .25rem;
+	border: 1px solid transparent;
+	padding-left:50px;
+	color: #fff;
+}
+
+a.btn:hover {
+	border-radius: .25rem;
+} */
+body{
+	background: skyblue
+}
+.form-group{
+	color: #000
+}
+b.label{
+	color:red
+}
